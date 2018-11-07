@@ -1,0 +1,36 @@
+<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Testing.com" resolutions="1x" timestamp="1541598094923">
+  <folder name="images">
+    <file name="poem-animation.gif" crc="4205094169" seo="true" ref="variation-3">
+      <caption webpage="variation-3" alt=""/>
+    </file>
+  </folder>
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="master_a-master.css" crc="492246119" ref="index:variation-4:variation-3:variation-2"/>
+    <file name="index.css" crc="278136948" ref="index"/>
+    <file name="variation-4.css" crc="181623148" ref="variation-4"/>
+    <file name="variation-3.css" crc="3859678471" ref="variation-3"/>
+    <file name="variation-2.css" crc="251634179" ref="variation-2"/>
+  </folder>
+  <folder name="assets">
+    <file name="variation-1-brandon-graham.html" crc="4176479252" seo="true" mt="1536129232000"/>
+    <file name="variation-2.html" crc="4104939769" seo="true" mt="1538374367000"/>
+    <file name="variation-3-test.html" crc="348663401" seo="true" mt="1540786218000"/>
+    <file name="animation.html" crc="428874029" seo="true" mt="1541357985000"/>
+    <file name="poem-animation.gif" crc="4205094169" seo="true" mt="1539580499000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:variation-2:variation-3:variation-4"/>
+    <file name="museutils.js" crc="4216313831" ref="index:variation-2:variation-3:variation-4"/>
+    <file name="whatinput.js" crc="86476730" ref="index:variation-2:variation-3:variation-4"/>
+    <file name="museconfig.js" crc="474374037" ref="index:variation-2:variation-3:variation-4"/>
+    <file name="jquery.watch.js" crc="460461809" ref="index:variation-2:variation-3:variation-4"/>
+    <file name="require.js" crc="3951022091" ref="index:variation-2:variation-3:variation-4"/>
+    <file name="jquery.musemenu.js" crc="493622299" ref="index:variation-2:variation-3:variation-4"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:variation-2:variation-3:variation-4"/>
+  </folder>
+  <file name="index.html" crc="365064749" seo="true" mt="1541358663531" redirect="true"/>
+  <file name="variation-2.html" crc="4207465205" seo="true" mt="1541358663531" redirect="true"/>
+  <file name="variation-3.html" crc="127888307" seo="true" mt="1541358663531" redirect="true"/>
+  <file name="variation-4.html" crc="28529498" seo="true" mt="1541358663531" redirect="true"/>
+</manifest>
